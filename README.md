@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KiaraAmour
-- 👀 I’m interested in ... Software Engineering 
+- 👀 I’m interested in ... Software Engineering and Business Development
 - 🌱 I’m currently learning ... How to edit APIS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Kiaraluejames@gmail.com
